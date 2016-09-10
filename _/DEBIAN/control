@@ -1,0 +1,10 @@
+Package: apt.sun.ticktock
+Name: TickTock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 实现 iOS 10 不同键位的键盘音效
+Maintainer: Jacky
+Author: Jacky
+Section: 插件 - Tweaks
+Version: 1.0-1
+Installed-Size: 92
